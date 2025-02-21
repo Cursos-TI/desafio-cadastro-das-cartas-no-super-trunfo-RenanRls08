@@ -42,6 +42,6 @@ scanf("%d", &pturisticos);
 
 
 return 0;
-
+        
 }
 
