@@ -1,5 +1,9 @@
 {
     "githubPullRequests.ignoredPullRequestBranches": [
         "main"
-    ]
+    ],
+    "files.associations": {
+        "atributossupertrunfo": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
